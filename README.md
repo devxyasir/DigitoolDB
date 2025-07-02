@@ -167,7 +167,7 @@ Check the `examples/` directory for code.
 📍 Lodhran, Punjab, Pakistan
 🌐 [Portfolio](https://devsecure.netlify.app)
 📧 [jamyasir0534@gmail.com](mailto:jamyasir0534@gmail.com)
-🔗 [GitHub](https://github.com/devxyasir) | [Hugging Face](https://huggingface.co/jamyasir)
+🔗 [GitHub](https://github.com/devxyasir) | [Hugging Face](https://huggingface.co/devxyasir)
 
 ---
 
