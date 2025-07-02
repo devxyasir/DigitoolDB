@@ -39,7 +39,7 @@ DigitoolDB/
 ├── docs/            # documentation and guides
 └── scripts/         # install & setup scripts
 
-````
+```
 
 ---
 
@@ -50,7 +50,7 @@ DigitoolDB/
    ```bash
    git clone https://github.com/devxyasir/DigitoolDB.git
    cd DigitoolDB
-````
+```
 
 3. Install (standard mode):
 
