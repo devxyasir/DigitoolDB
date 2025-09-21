@@ -1,12 +1,14 @@
 # 📦 DigitoolDB
 
-> A lightweight, beginner-friendly, document-oriented NoSQL database inspired by MongoDB — built in pure Python by [Jam Yasir](https://devsecure.netlify.app). Ideal for learning, rapid prototyping, and local application development.
+> A lightweight, beginner-friendly, document-oriented NoSQL database inspired by MongoDB — built in pure Python by [Muhammad Yasir](https://devsecure.netlify.app) *(GitHub: [@devxyasir](https://github.com/devxyasir))*. Ideal for learning, rapid prototyping, and local application development.
 
 ---
 
 ## 🧠 Overview
 
-**DigitoolDB** is a custom-built NoSQL-style database system, designed for local environments and written entirely in Python. It mimics MongoDB's document-oriented structure while remaining dependency-free and simple to use. Whether you're building educational projects, testing backend systems, or learning how databases work under the hood — DigitoolDB is a great starting point.
+**DigitoolDB** is a custom-built NoSQL-style database system, designed for local environments and written entirely in Python. It mimics MongoDB's document-oriented structure while remaining dependency-free and simple to use. Created and maintained by **Muhammad Yasir (@devxyasir)**, it’s a practical project for students, AI/ML learners, and developers exploring database internals.
+
+Whether you're building educational projects, testing backend systems, or learning how databases work under the hood — DigitoolDB is a great starting point.
 
 ---
 
@@ -39,7 +41,7 @@ DigitoolDB/
 ├── docs/            # documentation and guides
 └── scripts/         # install & setup scripts
 
-```
+````
 
 ---
 
@@ -50,7 +52,7 @@ DigitoolDB/
    ```bash
    git clone https://github.com/devxyasir/DigitoolDB.git
    cd DigitoolDB
-```
+````
 
 3. Install (standard mode):
 
@@ -163,11 +165,11 @@ Check the `examples/` directory for code.
 
 ## 🧑‍💻 Author
 
-**Jam Yasir** – AI & ML Engineer, Web & Security Developer
+**Jam Yasir (Muhammad Yasir)** – AI & ML Engineer, Web & Security Developer
 📍 Lodhran, Punjab, Pakistan
 🌐 [Portfolio](https://devsecure.netlify.app)
 📧 [jamyasir0534@gmail.com](mailto:jamyasir0534@gmail.com)
-🔗 [GitHub](https://github.com/devxyasir) | [Hugging Face](https://huggingface.co/devxyasir)
+🔗 [GitHub @devxyasir](https://github.com/devxyasir) | [Hugging Face](https://huggingface.co/devxyasir)
 
 ---
 
@@ -194,6 +196,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 > DigitoolDB was created to demystify the internals of NoSQL databases for learners, hobbyists, and Python developers. It’s intentionally minimal, yet extendable. Dive in, tweak it, break it, rebuild it — and most importantly, learn from it. 💡
 >
-> — *Jam Yasir (DevSecure)*
-
----
+> — *Muhammad Yasir (@devxyasir, DevSecure)*
+ 
