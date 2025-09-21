@@ -2,6 +2,9 @@
 
 > A lightweight, beginner-friendly, document-oriented NoSQL database inspired by MongoDB — built in pure Python by [Muhammad Yasir](https://devsecure.netlify.app) *(GitHub: [@devxyasir](https://github.com/devxyasir))*. Ideal for learning, rapid prototyping, and local application development.
 
+<!-- 
+SEO Keywords:
+devxyasir · Muhammad Yasir · AI Engineer · Machine Learning Engineer · Web Developer · Cybersecurity Developer · Python Projects · JavaScript Projects · FastAPI · NoSQL · DigitoolDB · Open Source · Portfolio devsecure.netlify.app · GitHub @devxyasir -->
 
 
 ## 🧠 Overview
