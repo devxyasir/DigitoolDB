@@ -55,7 +55,6 @@ DigitoolDB/
 ````
 
 3. Install (standard mode):
-
    ```bash
    pip install -r requirements.txt
    python setup.py install
