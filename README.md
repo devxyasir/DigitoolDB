@@ -2,7 +2,7 @@
 
 > A lightweight, beginner-friendly, document-oriented NoSQL database inspired by MongoDB — built in pure Python by [Muhammad Yasir](https://devsecure.netlify.app) *(GitHub: [@devxyasir](https://github.com/devxyasir))*. Ideal for learning, rapid prototyping, and local application development.
 
----
+
 
 ## 🧠 Overview
 
@@ -10,7 +10,7 @@
 
 Whether you're building educational projects, testing backend systems, or learning how databases work under the hood — DigitoolDB is a great starting point.
 
----
+
 
 ## 🚀 Key Features
 
@@ -24,7 +24,7 @@ Whether you're building educational projects, testing backend systems, or learni
 - 💾 **Runs as a local daemon (`digid`)**
 - 🔐 **Safe Local Storage** — perfect for isolated development
 
----
+
 
 ## 📁 Directory Structure
 
@@ -43,7 +43,7 @@ DigitoolDB/
 
 ````
 
----
+
 
 ## 🛠 Installation
 
@@ -63,7 +63,7 @@ DigitoolDB/
 
 > ✅ No MongoDB or external NoSQL engine required — everything runs natively.
 
----
+
 
 ## 🧪 Usage Examples
 
@@ -79,7 +79,7 @@ with SimpleDB() as db:
     print(users.find({'role': 'Developer'}))
 ```
 
----
+
 
 ### ⚙️ Using the Programmatic Client API
 
@@ -97,7 +97,7 @@ print(client.find('mydb', 'users', {'name': 'Yasir'}))
 client.disconnect()
 ```
 
----
+
 
 ### 📡 Starting the Server
 
@@ -105,7 +105,7 @@ client.disconnect()
 digid --config config/digid.conf
 ```
 
----
+
 
 ### 🧾 CLI Commands
 
@@ -123,7 +123,7 @@ digi update users '{"name": "Yasir"}' '{"$set": {"age": 30}}'
 digi delete users '{"name": "Yasir"}'
 ```
 
----
+
 
 ## ⚙️ Configuration
 
@@ -139,7 +139,7 @@ Configuration file example:
 
 Location: `config/digid.conf` or use custom path with `--config`.
 
----
+
 
 ## 📚 Documentation
 
@@ -148,12 +148,12 @@ Location: `config/digid.conf` or use custom path with `--config`.
 * [📎 CLI Cheat Sheet](docs/cheat_sheet.md)
 * [❓ FAQ](docs/faq.md)
 
----
+
 
 ## 🎉 Example Apps
 
 | Name                  | Description                              |
-| --------------------- | ---------------------------------------- |
+|  | - |
 | Simple API Demo       | Insert, query, update, delete via Python |
 | Todo App              | Build a full-featured todo list app      |
 | Data Analysis App     | Load and query structured data           |
@@ -161,7 +161,7 @@ Location: `config/digid.conf` or use custom path with `--config`.
 
 Check the `examples/` directory for code.
 
----
+
 
 ## 🧑‍💻 Author
 
@@ -171,7 +171,7 @@ Check the `examples/` directory for code.
 📧 [jamyasir0534@gmail.com](mailto:jamyasir0534@gmail.com)
 🔗 [GitHub @devxyasir](https://github.com/devxyasir) | [Hugging Face](https://huggingface.co/devxyasir)
 
----
+
 
 ## 🤝 Contributions
 
@@ -184,13 +184,13 @@ git clone https://github.com/devxyasir/DigitoolDB.git
 git checkout -b your-feature-branch
 ```
 
----
+
 
 ## 📜 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
+
 
 ## 🙌 A Message from the Author
 
