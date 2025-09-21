@@ -59,7 +59,7 @@ DigitoolDB/
    ```bash
    pip install -r requirements.txt
    python setup.py install
-   ````
+````
 
 > ✅ No MongoDB or external NoSQL engine required — everything runs natively.
 
