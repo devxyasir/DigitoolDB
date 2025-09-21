@@ -49,7 +49,7 @@ DigitoolDB/
 
 1. Make sure you have **Python 3.8+** installed
 2. Clone the repo:
-   ````bash
+   ```bash
    git clone https://github.com/devxyasir/DigitoolDB.git
    cd DigitoolDB
 ````
