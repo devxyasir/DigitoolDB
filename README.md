@@ -199,4 +199,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 > DigitoolDB was created to demystify the internals of NoSQL databases for learners, hobbyists, and Python developers. It’s intentionally minimal, yet extendable. Dive in, tweak it, break it, rebuild it — and most importantly, learn from it. 💡
 >
 > — *Muhammad Yasir (@devxyasir, DevSecure)*
- 
+
+ [![Star History Chart](https://api.star-history.com/svg?repos=Calcium-Ion/DigitoolDB&type=Date)](https://star-history.com/#Calcium-Ion/DigitoolDB&Date)
+
