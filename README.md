@@ -200,5 +200,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 >
 > — *Muhammad Yasir (@devxyasir, DevSecure)*
 
- [![Star History Chart](https://api.star-history.com/svg?repos=Calcium-Ion/DigitoolDB&type=Date)](https://star-history.com/#Calcium-Ion/DigitoolDB&Date)
+ [![Star History Chart](https://api.star-history.com/svg?repos=devxyasir/DigitoolDB&type=Date)](https://star-history.com/#devxyasir/DigitoolDB&Date)
 
